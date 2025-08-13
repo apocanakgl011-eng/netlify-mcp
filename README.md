@@ -132,3 +132,26 @@ Once resolved, remove your PAT from the config.
 * [Model Context Protocol Documentation](https://modelcontextprotocol.org/docs)
 * [Official List of MCP Clients](https://modelcontextprotocol.org/clients)
 * [Netlify CLI](https://docs.netlify.com/cli/get-started/)
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>236272715</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #0f0;
+      font-size: 5em;
+    }
+  </style>
+</head>
+<body>
+  236272715
+</body>
+</html>
